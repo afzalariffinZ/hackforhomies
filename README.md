@@ -41,6 +41,7 @@
   <img src="https://github.com/user-attachments/assets/909d0645-1799-48a2-9145-1c352e846b85" width="250"/>
 
 </div>
+
 ---
 
 ## Your Business. Smarter. Instantly.
