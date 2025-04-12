@@ -7,7 +7,6 @@
 *   Afzal Ariffin — Backend Developer
 *   Hafiz Adha — Frontend Developer
 
-**UMHackathon 2025 - Domain 3**
 
 **View Presentation:** [![Presentation](https://img.shields.io/badge/View-Presentation-F9A825?style=for-the-badge&logo=canva)](https://www.canva.com/design/DAGkCCZRUnI/xAxyqyCLR2VR7RSXHfwNPg/edit)
 
