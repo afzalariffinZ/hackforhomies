@@ -137,6 +137,8 @@ This deep personalization ensures the advice isn't just data – it's intelligen
 
 ## Simple Interface, Powerful Engine: The Technology
 
+![Architecture](./images/softwarearchitecture.png)
+
 We use robust technology, designed to be seamless for you:
 
 *   **Your App Interface (React Native):** The simple, cross-platform mobile app where you chat, view insights, and take action. Easy to use on any phone.
