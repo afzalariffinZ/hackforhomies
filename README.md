@@ -137,7 +137,7 @@ This deep personalization ensures the advice isn't just data – it's intelligen
 
 ## Simple Interface, Powerful Engine: The Technology
 
-![Architecture](./images/architecture.png)
+![Architecture](./image/architecture.png)
 
 We use robust technology, designed to be seamless for you:
 
