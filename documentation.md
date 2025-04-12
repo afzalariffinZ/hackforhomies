@@ -4,7 +4,7 @@
 The system is designed to provide a smart, scalable, and responsive AI-powered assistant for merchants. It consists of a mobile frontend, a robust backend API, and an AI engine that handles personalization and natural language understanding.
 
 ## Overall System Diagram
-![Simple Architecture](path/to/image.png)
+![Simple Architecture](/simplifiedarchitecture.png)
 
 
 ---
