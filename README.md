@@ -58,7 +58,8 @@ Grab Business Partner cuts through the noise. It’s designed specifically for t
     ![Personalized Insight](placeholder_insights.png "Tailored Business Insight")
 
 *   **See Your Business Clearly:** Simple charts and summaries in the chat make complex data easy to understand. Tap any visual to zoom in and explore.
-    ![In-Chat Chart](placeholder_weekly_report.png "Clear Data Visualization")
+    ![In-Chat Chart](https://github.com/user-attachments/assets/3b847a3c-3d8a-4f74-be36-678d7319a54e)
+
     ![Zoomable Popup](placeholder_popup.png "Detailed Visual Popup")
 
 *   **Take Control, Easily:** Launch a flash sale for quiet periods, restock your popular ingredients, add that new dish you perfected – the AI guides you through it step-by-step.
