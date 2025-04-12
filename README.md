@@ -11,6 +11,10 @@
 
 ---
 
+## UI Snippets.
+
+---
+
 ## Your Business. Smarter. Instantly.
 
 Running a small business is demanding. You're the chef, the manager, the marketer, the stock controller. You pour your heart into it. But finding the time to analyze sales, track every item, and figure out the *next best move*? That's tough. The answers are hidden in your daily data, often unseen.
@@ -52,21 +56,15 @@ Grab Business Partner cuts through the noise. It’s designed specifically for t
 ## How It Helps You Succeed: Key Capabilities
 
 *   **Know Before It's Too Late:** Real-time alerts for low stock or sudden sales changes mean you can react fast, preventing lost sales or waste.
-    ![Inventory Alert](placeholder_inventory_alert.png "Proactive Inventory Alert")
 
 *   **Stop Guessing, Start Growing:** Clear insights on what's selling well (and what's not), when your busiest hours *really* are, and what your customers love. Make decisions based on facts, not feelings.
-    ![Personalized Insight](placeholder_insights.png "Tailored Business Insight")
 
 *   **See Your Business Clearly:** Simple charts and summaries in the chat make complex data easy to understand. Tap any visual to zoom in and explore.
-    ![In-Chat Chart](https://github.com/user-attachments/assets/3b847a3c-3d8a-4f74-be36-678d7319a54e)
 
-    ![Zoomable Popup](placeholder_popup.png "Detailed Visual Popup")
 
 *   **Take Control, Easily:** Launch a flash sale for quiet periods, restock your popular ingredients, add that new dish you perfected – the AI guides you through it step-by-step.
-    ![Promotion Workflow](placeholder_promotion.png "Easy Promotion Setup")
 
 *   **Feels Like Talking to a Partner:** Chat naturally. Ask "How was business today?" or "Should I promote Roti Canai?" and get clear, helpful answers.
-    ![Chat Interface](placeholder_chat.png "Intuitive Chat Interface")
 
 ---
 
